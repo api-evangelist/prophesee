@@ -1,0 +1,45 @@
+{
+    "name": "Prophesee",
+    "description": "REVEALS THE INVISIBLE with the most advanced neuromorphic vision system in the world, inspired by human vision and built on the foundation of neuromorphic engineering. PROPHESEE gives Metavision to machines, revealing what was previously invisible to t...",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28700-www-prophesee-ai.jpg",
+    "tags": [
+        "api not found",
+        "artificial intelligence",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/prophesee\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Prophesee",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28700-www-prophesee-ai.jpg",
+            "humanURL": "https:\/\/www.prophesee.ai",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/prophesee-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/prophesee-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Prophesee_ai"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.prophesee.ai"
+        }
+    ]
+}
